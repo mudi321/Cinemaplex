@@ -1,0 +1,9 @@
+ADMIN ACCOUNT
+admin@gmail.com  PW - 123
+
+
+
+
+GUEST ACCOUNT
+mudi@gmail.com  PW - mudi
+user2@gmail.com  PW - 123
